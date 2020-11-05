@@ -6,7 +6,7 @@ Las secciones que se listan a continuación pueden usarse por separado para prue
 * PlanningPseudo3D: Presenta la solución tridimensional del camino formado por un proceso de búsqueda bidimensional.
 * Planning3D: Programa para la construcción de mundos voxelizados y la ejecución de algoritmos de búsqueda.
 
-El control de los Tello EDU, se realiza a través del programa main.py dentro de la carpeta ControlDrone. Los Tello EDU deben estar previamente configurados en modo AP utilizando el programa alojado en la carpeta ModoAP
+El control de los Tello EDU se realiza a través del programa main.py, dentro de la carpeta ControlDrone. Los Tello EDU deben estar previamente configurados en modo AP utilizando el programa alojado en la carpeta ModoAP
 
 Requisitos para el funcionamiento de los programas:
 * Python 3.8
@@ -22,10 +22,10 @@ Requisitos para el funcionamiento de los programas:
 * Panda3D >=1.10.6
 
 Para facilitar la instalación de los requisitos previos, usar Anaconda Individual Edition y en la ventana de comandos ejecutar lo siguiente:
-## conda install -c conda-forge shapely (Shapely: https://shapely.readthedocs.io/en/stable/manual.html)
-## conda install -c conda-forge pyqtgraph (PyQtGraph: http://www.pyqtgraph.org/)
-## pip install PyOpenGL PyOpenGL_accelerate (PyOpenGL: http://pyopengl.sourceforge.net/)
-## conda install -c conda-forge vedo (Vedo Python: https://github.com/marcomusy/vedo)
-## pip install panda3d==1.10.7 (Panda3D: https://www.panda3d.org/)
+### conda install -c conda-forge shapely (Shapely: https://shapely.readthedocs.io/en/stable/manual.html)
+### conda install -c conda-forge pyqtgraph (PyQtGraph: http://www.pyqtgraph.org/)
+### pip install PyOpenGL PyOpenGL_accelerate (PyOpenGL: http://pyopengl.sourceforge.net/)
+### conda install -c conda-forge vedo (Vedo Python: https://github.com/marcomusy/vedo)
+### pip install panda3d==1.10.7 (Panda3D: https://www.panda3d.org/)
 
 Ejecutados los comandos de instalación anteriores, Anaconda instalará los componentes faltantes
