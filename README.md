@@ -6,7 +6,7 @@ Las secciones que se listan a continuación pueden usarse por separado para prue
 * PlanningPseudo3D: Presenta la solución tridimensional del camino formado por un proceso de búsqueda bidimensional.
 * Planning3D: Programa para la construcción de mundos voxelizados y la ejecución de algoritmos de búsqueda.
 
-Para el control de los Tello EDU, ejecutar el archivo main.py
+Para el control de los Tello EDU, ejecutar el archivo main.py dentro de la carpeta ControlDrone
 
 Requisitos para el funcionamiento de los programas
 * Python 3.8
