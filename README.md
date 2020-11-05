@@ -22,10 +22,10 @@ Requisitos para el funcionamiento de los programas:
 * Panda3D >=1.10.6
 
 Para facilitar la instalación de los requisitos previos, usar Anaconda Individual Edition y en la ventana de comandos ejecutar lo siguiente:
-#conda install -c conda-forge shapely (Shapely: https://shapely.readthedocs.io/en/stable/manual.html)
-conda install -c conda-forge pyqtgraph (PyQtGraph: http://www.pyqtgraph.org/)
-pip install PyOpenGL PyOpenGL_accelerate (PyOpenGL: http://pyopengl.sourceforge.net/)
-conda install -c conda-forge vedo (Vedo Python: https://github.com/marcomusy/vedo)
-pip install panda3d==1.10.7 (Panda3D: https://www.panda3d.org/)
+# conda install -c conda-forge shapely (Shapely: https://shapely.readthedocs.io/en/stable/manual.html)
+# conda install -c conda-forge pyqtgraph (PyQtGraph: http://www.pyqtgraph.org/)
+# pip install PyOpenGL PyOpenGL_accelerate (PyOpenGL: http://pyopengl.sourceforge.net/)
+# conda install -c conda-forge vedo (Vedo Python: https://github.com/marcomusy/vedo)
+# pip install panda3d==1.10.7 (Panda3D: https://www.panda3d.org/)
 
 Ejecutados los comandos de instalación anteriores, Anaconda instalará los componentes faltantes
